@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 import {
-  CssBaseline,
-  withStyles,
+  CssBaseline, //clears padding, marigins..basically removes defaults
+  withStyles, 
 } from '@material-ui/core';
 
 import AppHeader from './components/AppHeader';

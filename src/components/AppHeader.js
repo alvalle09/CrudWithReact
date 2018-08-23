@@ -7,15 +7,13 @@ import {
 } from '@material-ui/core';
 
 const AppHeader = () => (
-
     <AppBar position="static">
         <Toolbar>
             <Typography variant="title" color="inherit">
-                My React App
+                My React Apps AppBar!
             </Typography>
         </Toolbar>
     </AppBar>
-
 );
 
 
